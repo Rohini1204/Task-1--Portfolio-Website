@@ -1,4 +1,3 @@
-// Autumn theme form validation
 document.getElementById("contactForm").addEventListener("submit", function(event) {
     event.preventDefault();
 
